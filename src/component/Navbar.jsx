@@ -41,7 +41,7 @@ function Navbar(){
                     </a>
                    
                       <ul className="nav">
-                        <li><Link to="/route">Home</Link></li>
+                        <li><Link to="/Talerouter">Home</Link></li>
                         <li><Link to="/AboutUs">About</Link></li>
                         <li><Link to="/Faq">Faq</Link></li>
                         <li><Link to="/Contact">Contact</Link></li>
