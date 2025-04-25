@@ -2,7 +2,7 @@
   "name": "talerouter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Raksi0515.github.io/route",
+  "homepage": "https://Raksi0515.github.io/Talerouter",
   "type": "module",
   "scripts": {
     "dev": "vite",
